@@ -1158,7 +1158,7 @@
       "spawn_time": "08:46",
       "multipliers": [1.85],
       "weaknesses": [
-          "Steel,
+          "Steel",
           "Poison"
       ],
       "prev_evolution": [{
