@@ -374,6 +374,11 @@
         "num": "011",
         "name": "Metapod"
       }]
+        ,
+      "next_evolution": [{
+        "num": "0",
+        "name": "This is the final Evolution"
+      }]
     }, {
       "id": 13,
       "num": "013",
@@ -473,6 +478,11 @@
         "num": "014",
         "name": "Kakuna"
       }]
+        ,
+      "next_evolution": [{
+        "num": "0",
+        "name": "This is the final Evolution"
+      }]
     }, {
       "id": 16,
       "num": "016",
@@ -566,6 +576,11 @@
         "num": "017",
         "name": "Pidgeotto"
       }]
+        ,
+      "next_evolution": [{
+        "num": "0",
+        "name": "This is the final Evolution"
+      }]
     }, {
       "id": 19,
       "num": "019",
@@ -607,6 +622,11 @@
       "prev_evolution": [{
         "num": "019",
         "name": "Rattata"
+      }]
+        ,
+      "next_evolution": [{
+        "num": "0",
+        "name": "This is the final Evolution"
       }]
     }, {
       "id": 21,
@@ -664,6 +684,11 @@
         "num": "021",
         "name": "Spearow"
       }]
+        ,
+      "next_evolution": [{
+        "num": "0",
+        "name": "This is the final Evolution"
+      }]
     }, {
       "id": 23,
       "num": "023",
@@ -674,7 +699,7 @@
       "weight": "6.9 kg",
       "candy": "Ekans Candy",
       "candy_count": 25,
-      "egg": "2 km",
+      "egg": "5 km",
       "spawn_chance": 2.27,
       "avg_spawns": 227,
       "spawn_time": "12:20",
@@ -711,6 +736,11 @@
       "prev_evolution": [{
         "num": "023",
         "name": "Ekans"
+      }]
+        ,
+      "next_evolution": [{
+        "num": "0",
+        "name": "This is the final Evolution"
       }]
     }, {
       "id": 25,
@@ -751,6 +781,11 @@
         "num": "025",
         "name": "Pikachu"
       }]
+        ,
+      "next_evolution": [{
+        "num": "0",
+        "name": "This is the final Evolution"
+      }]
     }, {
       "id": 27,
       "num": "027",
@@ -761,7 +796,7 @@
       "weight": "12.0 kg",
       "candy": "Sandshrew Candy",
       "candy_count": 25,
-      "egg": "2 km",
+      "egg": "5 km",
       "spawn_chance": 1.11,
       "avg_spawns": 111,
       "spawn_time": "01:58",
@@ -798,6 +833,11 @@
         "num": "027",
         "name": "Sandshrew",
       }]
+        ,
+      "next_evolution": [{
+        "num": "0",
+        "name": "This is the final Evolution"
+      }]
     }, {
       "id": 29,
       "num": "029",
@@ -808,7 +848,7 @@
       "weight": "7.0 kg",
       "candy": "Nidoran ♀ (Female) Candy",
       "candy_count": 25,
-      "egg": "2 km",
+      "egg": "5 km",
       "spawn_chance": 1.38,
       "avg_spawns": 138,
       "spawn_time": "01:51",
@@ -887,6 +927,11 @@
         "num": "030",
         "name": "Nidorina",
       }]
+        ,
+      "next_evolution": [{
+        "num": "0",
+        "name": "This is the final Evolution"
+      }]
     }, {
       "id": 32,
       "num": "032",
@@ -897,7 +942,7 @@
       "weight": "9.0 kg",
       "candy": "Nidoran ♂ (Male) Candy",
       "candy_count": 25,
-      "egg": "2 km",
+      "egg": "5 km",
       "spawn_chance": 1.31,
       "avg_spawns": 131,
       "spawn_time": "01:12",
@@ -976,6 +1021,11 @@
         "num": "033",
         "name": "Nidorino",
       }]
+        ,
+      "next_evolution": [{
+        "num": "0",
+        "name": "This is the final Evolution"
+      }]
     }, {
       "id": 35,
       "num": "035",
@@ -1030,6 +1080,11 @@
         "num": "035",
         "name": "Clefairy",
       }]
+        ,
+      "next_evolution": [{
+        "num": "0",
+        "name": "This is the final Evolution"
+      }]
     }, {
       "id": 37,
       "num": "037",
@@ -1040,7 +1095,7 @@
       "weight": "9.9 kg",
       "candy": "Vulpix Candy",
       "candy_count": 25,
-      "egg": "2 km",
+      "egg": "5 km",
       "spawn_chance": 0.22,
       "avg_spawns": 22,
       "spawn_time": "13:43",
@@ -1079,12 +1134,20 @@
         "num": "037",
         "name": "Vulpix",
       }]
+        ,
+      "next_evolution": [{
+        "num": "0",
+        "name": "This is the final Evolution"
+      }]
     }, {
       "id": 39,
       "num": "039",
       "name": "Jigglypuff",
       "img": "http://www.serebii.net/pokemongo/pokemon/039.png",
-      "type": ["NormalFairy"],
+      "type": [
+          "Normal",
+          "Fairy"
+      ],
       "height": "0.51 m",
       "weight": "5.5 kg",
       "candy": "Igglybuff Candy",
@@ -1094,7 +1157,10 @@
       "avg_spawns": 39,
       "spawn_time": "08:46",
       "multipliers": [1.85],
-      "weaknesses": ["SteelPoison"],
+      "weaknesses": [
+          "Steel,
+          "Poison"
+      ],
       "prev_evolution": [{
         "num": "174",
         "name": "Igglybuff",
@@ -1108,7 +1174,10 @@
       "num": "040",
       "name": "Wigglytuff",
       "img": "http://www.serebii.net/pokemongo/pokemon/040.png",
-      "type": ["NormalFairy"],
+      "type": [
+          "Normal",
+          "Fairy"
+      ],
       "height": "0.99 m",
       "weight": "12.0 kg",
       "candy": "Igglybuff Candy",
@@ -1117,13 +1186,333 @@
       "avg_spawns": 1.8,
       "spawn_time": "12:28",
       "multipliers": null,
-      "weaknesses": ["SteelPoison"],
+      "weaknesses": [
+          "Steel",
+          "Poison"
+      ],
       "prev_evolution": [{
         "num": "174",
         "name": "Igglybuff",
       }, {
         "num": "039",
         "name": "Jigglypuff",
+      }]
+         ,
+      "next_evolution": [{
+        "num": "0",
+        "name": "This is the final Evolution"
+      }]
+    }, {
+      "id": 41,
+      "num": "041",
+      "name": "Zubat",
+      "img": "http://www.serebii.net/pokemongo/pokemon/041.png",
+      "type": [
+          "Poison",
+          "Flying"
+      ],
+      "height": "0.79 m",
+      "weight": "7.5 kg",
+      "candy": "Zubat Candy",
+      "candy_count": 25,
+      "egg": "2 km",
+      "spawn_chance": 6.52,
+      "avg_spawns": 652,
+      "spawn_time": "12:28",
+      "multipliers": [
+          2.6,
+          3.67
+      ],
+      "weaknesses": [
+          "Psychic",
+          "Electric",
+          "Ice",
+          "Rock"
+      ],
+      "next_evolution": [{
+        "num": "042",
+        "name": "Golbat"
+      }, {
+        "num": "169",
+        "name": "Crobat"
+      }]
+    }, {
+      "id": 42,
+      "num": "042",
+      "name": "Golbat",
+      "img": "http://www.serebii.net/pokemongo/pokemon/042.png",
+      "type": [
+          "Poison",
+          "Flying"
+      ],
+      "height": "1.60 m",
+      "weight": "55.0 kg",
+      "candy": "Zubat Candy",
+      "candy_count": 100,
+      "egg": "Not in Eggs",
+      "spawn_chance": 0.42,
+      "avg_spawns": 42,
+      "spawn_time": "02:15",
+      "multipliers": null,
+      "weaknesses": [
+          "Psychic",
+          "Electric",
+          "Ice",
+          "Rock"
+      ],
+      "prev_evolution": [{
+        "num": "041",
+        "name": "Zubat",
+      }],
+      "next_evolution": [{
+        "num": "169",
+        "name": "Crobat"
+      }]
+    }, {
+      "id": 43,
+      "num": "043",
+      "name": "Oddish",
+      "img": "http://www.serebii.net/pokemongo/pokemon/043.png",
+      "type": [
+          "Grass",
+          "Poison"
+      ],
+      "height": "0.51 m",
+      "weight": "5.4 kg",
+      "candy": "Oddish Candy",
+      "candy_count": 25,
+      "egg": "5 km",
+      "spawn_chance": 1.02,
+      "avg_spawns": 102,
+      "spawn_time": "03:58",
+      "multipliers": [1.5],
+      "weaknesses": [
+          "Fire",
+          "Psychic",
+          "Flying",
+          "Ice"
+      ],
+      "next_evolution": [{
+        "num": "044",
+        "name": "Gloom"
+      }, {
+        "num": "045",
+        "name": "Vileplume"
+      }]
+    }, {
+      "id": 44,
+      "num": "044",
+      "name": "Gloom",
+      "img": "http://www.serebii.net/pokemongo/pokemon/044.png",
+      "type": [
+          "Grass",
+          "Poison"
+      ],
+      "height": "0.79 m",
+      "weight": "8.6 kg",
+      "candy": "Oddish Candy",
+      "candy_count": 100,
+      "egg": "Not in Eggs",
+      "spawn_chance": 0.064,
+      "avg_spawns": 6.4,
+      "spawn_time": "11:33",
+      "multipliers": [1.49],
+      "weaknesses": [
+          "Fire",
+          "Psychic",
+          "Flying",
+          "Ice"
+      ],
+      "prev_evolution": [{
+        "num": "043",
+        "name": "Oddish",
+      }],
+      "next_evolution": [{
+        "num": "045",
+        "name": "Vileplume"
+      }]
+    }, {
+      "id": 45,
+      "num": "045",
+      "name": "Vileplume",
+      "img": "http://www.serebii.net/pokemongo/pokemon/045.png",
+      "type": [
+          "Grass",
+          "Poison"
+      ],
+      "height": "1.19 m",
+      "weight": "18.6 kg",
+      "candy": "Oddish Candy",
+      "egg": "Not in Eggs",
+      "spawn_chance": 0.0097,
+      "avg_spawns": 0.97,
+      "spawn_time": "23:58",
+      "multipliers": null,
+      "weaknesses": [
+          "Fire",
+          "Psychic",
+          "Flying",
+          "Ice"
+      ],
+      "prev_evolution": [{
+        "num": "043",
+        "name": "Oddish",
+      }, {
+        "num": "044",
+        "name": "Gloom",
+      }]
+        ,
+      "next_evolution": [{
+        "num": "0",
+        "name": "This is the final Evolution"
+      }]
+    }, {
+      "id": 46,
+      "num": "046",
+      "name": "Paras",
+      "img": "http://www.serebii.net/pokemongo/pokemon/046.png",
+      "type": [
+          "Bug",
+          "Grass"
+      ],
+      "height": "0.30 m",
+      "weight": "5.4 kg",
+      "candy": "Paras Candy",
+      "candy_count": 25,
+      "egg": "5 km",
+      "spawn_chance": 2.36,
+      "avg_spawns": 236,
+      "spawn_time": "01:42",
+      "multipliers": [2.02],
+      "weaknesses": [
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison",
+          "Rock",
+          "Bug"
+      ],
+      "next_evolution": [{
+        "num": "047",
+        "name": "Parasect"
+      }]
+    }, {
+      "id": 47,
+      "num": "047",
+      "name": "Parasect",
+      "img": "http://www.serebii.net/pokemongo/pokemon/047.png",
+      "type": [
+          "Bug",
+          "Grass"
+      ],
+      "height": "0.99 m",
+      "weight": "29.5 kg",
+      "candy": "Paras Candy",
+      "egg": "Not in Eggs",
+      "spawn_chance": 0.074,
+      "avg_spawns": 7.4,
+      "spawn_time": "01:22",
+      "multipliers": null,
+      "weaknesses": [
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison",
+          "Rock",
+          "Bug"
+      ],
+      "prev_evolution": [{
+        "num": "046",
+        "name": "Paras",
+      }]
+        ,
+      "next_evolution": [{
+        "num": "0",
+        "name": "This is the final Evolution"
+      }]
+    }, {
+      "id": 48,
+      "num": "048",
+      "name": "Venonat",
+      "img": "http://www.serebii.net/pokemongo/pokemon/048.png",
+      "type": [
+          "Bug",
+          "Poison"
+      ],
+      "height": "0.99 m",
+      "weight": "30.0 kg",
+      "candy": "Venonat Candy",
+      "candy_count": 25,
+      "egg": "5 km",
+      "spawn_chance": 2.28,
+      "avg_spawns": 228,
+      "spawn_time": "02:31",
+      "multipliers": [1.86,1.9],
+      "weaknesses": [
+          "Fire",
+          "Psychic",
+          "Flying",
+          "Rock"
+      ],
+      "next_evolution": [{
+        "num": "049",
+        "name": "Venomoth"
+      }]
+    }, {
+      "id": 49,
+      "num": "049",
+      "name": "Venomoth",
+      "img": "http://www.serebii.net/pokemongo/pokemon/049.png",
+      "type": [
+          "Bug",
+          "Poison"
+      ],
+      "height": "1.50 m",
+      "weight": "12.5 kg",
+      "candy": "Venonat Candy",
+      "egg": "Not in Eggs",
+      "spawn_chance": 0.072,
+      "avg_spawns": 7.2,
+      "spawn_time": "23:40",
+      "multipliers": null,
+      "weaknesses": [
+          "Fire",
+          "Psychic",
+          "Flying",
+          "Rock"
+      ],
+      "prev_evolution": [{
+        "num": "048",
+        "name": "Venonat",
+      }]
+        ,
+      "next_evolution": [{
+        "num": "0",
+        "name": "This is the final Evolution"
+      }]
+    }, {
+      "id": 50,
+      "num": "050",
+      "name": "Diglett",
+      "img": "http://www.serebii.net/pokemongo/pokemon/050.png",
+      "type": ["Ground"],
+      "height": "0.20 m",
+      "weight": "0.8 kg",
+      "candy": "Diglett Candy",
+      "candy_count": 25,
+      "egg": "5 km",
+      "spawn_chance": 0.40,
+      "avg_spawns": 40,
+      "spawn_time": "02:22",
+      "multipliers": [2.69],
+      "weaknesses": [
+          "Water",
+          "Grass",
+          "Ice"
+      ],
+      "next_evolution": [{
+        "num": "051",
+        "name": "Dugtrio"
       }]
     }
     ]
