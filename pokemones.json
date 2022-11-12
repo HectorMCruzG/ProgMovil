@@ -831,7 +831,7 @@
       ],
       "prev_evolution": [{
         "num": "027",
-        "name": "Sandshrew",
+        "name": "Sandshrew"
       }]
         ,
       "next_evolution": [{
@@ -891,7 +891,7 @@
       ],
       "prev_evolution": [{
         "num": "029",
-        "name": "Nidoran ♀ (Female)",
+        "name": "Nidoran ♀ (Female)"
       }],
       "next_evolution": [{
         "num": "031",
@@ -922,10 +922,10 @@
       ],
       "prev_evolution": [{
         "num": "029",
-        "name": "Nidoran ♀ (Female)",
+        "name": "Nidoran ♀ (Female)"
       }, {
         "num": "030",
-        "name": "Nidorina",
+        "name": "Nidorina"
       }]
         ,
       "next_evolution": [{
@@ -985,7 +985,7 @@
       ],
       "prev_evolution": [{
         "num": "032",
-        "name": "Nidoran ♂ (Male)",
+        "name": "Nidoran ♂ (Male)"
       }],
       "next_evolution": [{
         "num": "034",
@@ -1016,10 +1016,10 @@
       ],
       "prev_evolution": [{
         "num": "032",
-        "name": "Nidoran ♂ (Male)",
+        "name": "Nidoran ♂ (Male)"
       }, {
         "num": "033",
-        "name": "Nidorino",
+        "name": "Nidorino"
       }]
         ,
       "next_evolution": [{
@@ -1050,7 +1050,7 @@
       ],
       "prev_evolution": [{
         "num": "173",
-        "name": "Cleffa",
+        "name": "Cleffa"
       }],
       "next_evolution": [{
         "num": "036",
@@ -1075,10 +1075,10 @@
           "Poison"],
       "prev_evolution": [{
         "num": "173",
-        "name": "Cleffa",
+        "name": "Cleffa"
       }, {
         "num": "035",
-        "name": "Clefairy",
+        "name": "Clefairy"
       }]
         ,
       "next_evolution": [{
@@ -1132,7 +1132,7 @@
           "Rock"],
       "prev_evolution": [{
         "num": "037",
-        "name": "Vulpix",
+        "name": "Vulpix"
       }]
         ,
       "next_evolution": [{
@@ -1163,7 +1163,7 @@
       ],
       "prev_evolution": [{
         "num": "174",
-        "name": "Igglybuff",
+        "name": "Igglybuff"
       }],
       "next_evolution": [{
         "num": "040",
@@ -1192,10 +1192,10 @@
       ],
       "prev_evolution": [{
         "num": "174",
-        "name": "Igglybuff",
+        "name": "Igglybuff"
       }, {
         "num": "039",
-        "name": "Jigglypuff",
+        "name": "Jigglypuff"
       }]
          ,
       "next_evolution": [{
@@ -1262,7 +1262,7 @@
       ],
       "prev_evolution": [{
         "num": "041",
-        "name": "Zubat",
+        "name": "Zubat"
       }],
       "next_evolution": [{
         "num": "169",
@@ -1325,7 +1325,7 @@
       ],
       "prev_evolution": [{
         "num": "043",
-        "name": "Oddish",
+        "name": "Oddish"
       }],
       "next_evolution": [{
         "num": "045",
@@ -1356,10 +1356,10 @@
       ],
       "prev_evolution": [{
         "num": "043",
-        "name": "Oddish",
+        "name": "Oddish"
       }, {
         "num": "044",
-        "name": "Gloom",
+        "name": "Gloom"
       }]
         ,
       "next_evolution": [{
@@ -1423,7 +1423,7 @@
       ],
       "prev_evolution": [{
         "num": "046",
-        "name": "Paras",
+        "name": "Paras"
       }]
         ,
       "next_evolution": [{
@@ -1483,7 +1483,7 @@
       ],
       "prev_evolution": [{
         "num": "048",
-        "name": "Venonat",
+        "name": "Venonat"
       }]
         ,
       "next_evolution": [{
